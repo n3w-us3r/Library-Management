@@ -14,11 +14,11 @@ A simple project on managing a library for "the introduction to software technol
 * [C# 7.3](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-7-3)
 
 ## Features
-* Create new library card
+* Create new library cards
 * Manage bonded items
-* Search for book
+* Search for books
 * Provide book rental service
-* Manage the returned items
+* Manage returned items
 * Create reports
 
 ## Setup
